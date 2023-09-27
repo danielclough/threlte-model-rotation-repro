@@ -1,5 +1,12 @@
 # threlte-model-rotation-repro
 
+<a href="https://stackblitz.com/github/danielclough/threlte-model-rotation-repro">
+  <img
+    alt="Open in StackBlitz"
+    src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"
+  />
+</a>
+
 ## Issue:
 
 Panning and Rotation of the camera causes rotation of the model's parts with respect to the rest of the model.
