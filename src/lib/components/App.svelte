@@ -1,8 +1,6 @@
 <script lang="ts">
   import { Canvas } from '@threlte/core'
-  import Scene from './Scene.svelte'
+	import AvatarSelection from './avatars/AvatarSelection.svelte';
 </script>
 
-<Canvas>
-  <Scene />
-</Canvas>
+<AvatarSelection />
